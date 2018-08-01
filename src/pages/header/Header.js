@@ -17,7 +17,7 @@ class Header extends React.Component {
                     <p className="page-name">ДОСТАВКА И ОПЛАТА</p>
                     <p className="page-name">О НАС</p>
                     <p className="page-name">КОНТАКТЫ</p>
-                    <p className="page-name">БЛОГ</p>
+                    <p className="page-name">НОВОСТИ</p>
                 </div>
             </div>
         );
